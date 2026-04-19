@@ -34,8 +34,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vineeth20-05&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Vineeth20-05&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineeth20-05&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineeth20-05&layot=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
