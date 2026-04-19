@@ -42,5 +42,5 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Vineeth20-05/Vineeth20-05/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://profile-readme-generator.com/assets/snake.svg"/>
 </p>
